@@ -1,6 +1,6 @@
 # Rijoe Chacko Mathew - Technology Analyst
 
-![Profile Image](https://your-image-url.com) 
+![Profile Image]([https://your-image-url.com](https://avatars.githubusercontent.com/u/17834899?s=400&u=93ef575f326b726530e3d7a511c5dc6978945f7e&v=4)) 
 
 **Location:** Scarborough, Ontario  
 **Email:** rijoe.c.mathew@gmail.com  
