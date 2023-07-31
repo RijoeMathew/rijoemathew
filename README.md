@@ -2,7 +2,7 @@
 
 **Location:** Scarborough, Ontario  
 **Email:** rijoe.c.mathew@gmail.com  
-**LinkedIn:** [linkedin.com/in/rijoemathew](linkedin.com/in/rijoemathew)
+**LinkedIn:** [linkedin.com/in/rijoemathew](https://linkedin.com/in/rijoemathew)
 
 ## Summary
 
