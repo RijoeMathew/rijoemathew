@@ -3,7 +3,7 @@
 📍 **Location:** Scarborough, Ontario  
 📧 **Email:** rijoe.c.mathew@gmail.com  
 🌐 **Website:** [rijoemathew.github.io](https://rijoemathew.pythonanywhere.com)  
-🌐 **LinkedIn:** [linkedin.com/in/rijoemathew](https:linkedin.com/in/rijoemathew)
+🌐 **LinkedIn:** [linkedin.com/in/rijoemathew](https://linkedin.com/in/rijoemathew)
 
 ## Summary
 
