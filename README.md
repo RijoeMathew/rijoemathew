@@ -1,4 +1,4 @@
-# <img src="https://avatars.githubusercontent.com/u/17834899?s=400&u=93ef575f326b726530e3d7a511c5dc6978945f7e&v=4" alt="Profile Image" width="80"> Rijoe Chacko Mathew - Technology Analyst
+# <img src="https://avatars.githubusercontent.com/u/17834899?s=400&u=93ef575f326b726530e3d7a511c5dc6978945f7e&v=4" alt="Profile Image" width="80"> Rijoe Chacko Mathew - Software Engineer
 
 📍 **Location:** Scarborough, Ontario  
 📧 **Email:** rijoe.c.mathew@gmail.com  
